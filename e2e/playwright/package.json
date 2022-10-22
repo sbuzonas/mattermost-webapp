@@ -9,7 +9,7 @@
         "prettier": "prettier --write ."
     },
     "devDependencies": {
-        "@applitools/eyes-playwright": "1.12.1",
+        "@applitools/eyes-playwright": "1.12.7",
         "@mattermost/client": "7.0.0",
         "@mattermost/types": "7.0.0",
         "@percy/cli": "1.6.0",
