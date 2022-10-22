@@ -49,7 +49,7 @@
     "mark.js": "8.11.1",
     "marked": "github:mattermost/marked#2ef7f28cc7718e3f551c4ce9ea75fdd7580c2008",
     "memoize-one": "5.2.1",
-    "moment-timezone": "0.5.34",
+    "moment-timezone": "0.5.35",
     "p-queue": "6.6.1",
     "pdfjs-dist": "2.1.266",
     "popper.js": "1.16.1",
